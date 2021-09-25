@@ -4,8 +4,10 @@ Esse projeto é uma refatoração em ReactJS + TypeScript e Tailwind do projeto 
 
 ## Resultado
 
-Tela principal do sistema
+Tela principal do sistema:
+
 <img src="./assets/Resultado.png">
 
-Modal de cadastro de entradas e saídas
+Modal de cadastro de entradas e saídas:
+
 <img src="./assets/ResultadoModal.png">
